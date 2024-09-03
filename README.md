@@ -23,5 +23,3 @@ Including this feature was essential as it allowed us to create a simulation tha
 
 _* Note that the images from the website had to be edited slightly to work well with the simulation. Smaller images were required for the simulation to run in the live script rather than a normal script. We provided a series of images to use for the simulation in the download folder._
 
-## Project Code/Files
-If you wish to explore the project further it can be downloaded via the Source Code folder containing the source code and the original creation template.
