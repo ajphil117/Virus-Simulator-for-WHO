@@ -7,7 +7,9 @@ For this project, I created code to analyse the final data, created automated gr
 This project taught me the basics of data analysis using programming.
 
 ## Demo Video
-A demo video of the simulation in action can be found in the project files.
+A demo video of the simulation in action can be found in the [project files](/Virus%20Simulation%20Demo.mp4).
+
+Watch on YouTube [here](https://www.youtube.com/watch?v=VIaOKk_3H7Y).
 
 ## Project Goal and Expansion
 The main project goal was to create a simulation program that can simulate the effects of potential disease, virus, and infection outbreaks and analyse the results of an outbreak.
